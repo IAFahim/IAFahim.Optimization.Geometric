@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../../src/IAFahim.Optimization.Geometric/IAFahim.Optimization.Geometric.csproj" />
+  </ItemGroup>
+</Project>
